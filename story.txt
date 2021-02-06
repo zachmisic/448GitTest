@@ -1,5 +1,5 @@
 A long time ago, in a galaxy far, far away
 
-This text is different in another branch
+Newly edited "master" text, causing a merge conflict
 
 This is new text on a new branch
