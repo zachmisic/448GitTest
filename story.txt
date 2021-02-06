@@ -1,5 +1,5 @@
 A long time ago, in a galaxy far, far away
 
-This text is different in another branch
+This is the text of line 3 in the "assignment" branch
 
 This is new text on a new branch
